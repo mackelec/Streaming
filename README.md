@@ -1,4 +1,4 @@
-# Streaming Arduino Library README
+# Streaming - Arduino Library
 
 ## Introduction
 
